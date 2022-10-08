@@ -1,6 +1,4 @@
-# HW2-George-Mason-CS531
-
-Solution to HomeWork2 problem Creating Linked List with IPv4 addrerss and alias pair stored in it
+Problem Creating Linked List with IPv4 addrerss and alias pair stored in it
 
 
 The Files Present are:
